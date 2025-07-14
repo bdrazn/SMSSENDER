@@ -6,6 +6,24 @@ A comprehensive Android application for managing SMS marketing campaigns with ad
 
 The SMS Sender App is a sophisticated Android application designed for businesses and marketers who need to manage large-scale SMS campaigns. It provides a complete solution for creating, scheduling, and monitoring SMS marketing campaigns with real-time analytics and automation capabilities.
 
+## 📱 App Screenshots
+
+### Dashboard Overview
+![Dashboard Screen](images/dashboard.png)
+*Real-time metrics and active campaigns overview*
+
+### Campaign Management
+![Campaign Management](images/campaigns.png)
+*Create and manage SMS campaigns with detailed tracking*
+
+### Contact Lists
+![Contact Lists](images/contacts.png)
+*Organize and manage contact lists efficiently*
+
+### Settings & Configuration
+![Settings Screen](images/settings.png)
+*App configuration and user preferences*
+
 ## ✨ Key Features
 
 ### 📊 Campaign Management
@@ -55,16 +73,6 @@ The SMS Sender App is a sophisticated Android application designed for businesse
 - **Firebase**: Backend services (Auth, Firestore)
 - **WorkManager**: Background task scheduling
 - **Hilt**: Dependency injection
-
-### Data Layer
-```
-📁 Data Structure
-├── Campaigns (Campaign management)
-├── Contacts (Contact lists and phone numbers)
-├── Campaign Lists (Organized contact groups)
-├── Dashboard Metrics (Analytics data)
-└── Settings (User preferences)
-```
 
 ## 📱 App Screens & Navigation
 
@@ -194,4 +202,23 @@ This is a private project showcasing advanced Android development techniques and
 
 ---
 
-**Note**: This app demonstrates advanced Android development concepts including background services, database management, Firebase integration, and modern UI development with Jetpack Compose. 
+**Note**: This app demonstrates advanced Android development concepts including background services, database management, Firebase integration, and modern UI development with Jetpack Compose.
+
+## 📸 Image Guidelines
+
+When adding images to this README:
+
+1. **Use descriptive filenames**: `dashboard.png`, `campaigns.png`, etc.
+2. **Include alt text**: For accessibility
+3. **Add captions**: Describe what the image shows
+4. **Optimize file sizes**: Keep images under 1MB for fast loading
+5. **Use consistent dimensions**: Similar aspect ratios for visual consistency
+
+### Image Placement Examples:
+```markdown
+![Description](images/filename.png)
+*Caption explaining the image*
+
+![Another Description](images/another-image.png)
+*Another caption*
+``` 
