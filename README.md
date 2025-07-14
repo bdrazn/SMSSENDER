@@ -1,6 +1,7 @@
 # SMS Sender App 📱
 
 A comprehensive Android application for managing SMS marketing campaigns with advanced automation, analytics, and multi-workspace collaboration features.
+![Dashboard](https://github.com/user-attachments/assets/efea1af8-255b-4c23-9f68-50d8140b2967)
 
 ## 🎯 Project Overview
 
